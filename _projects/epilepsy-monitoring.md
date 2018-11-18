@@ -1,5 +1,5 @@
 ---
-title: Portable EEG Montoring Device
+title: Portable EEG Monitoring Device!!
 date: 2016-04-20 00:00:00 +0000
 categories: []
 description: A portable device for epileptic patients.
@@ -9,8 +9,8 @@ tags:
 - engineering
 - research
 slug: ''
----
 
+---
 ## Overview
 
 Epilepsy is a brain disorder that affects millions of North Americans. Characterized by abnormal neuronal signaling, symptoms of epilepsy are change in emotion, change in behavior, loss of consciousness, muscle spasms and convulsions.  
